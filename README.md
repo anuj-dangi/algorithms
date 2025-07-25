@@ -1,2 +1,2 @@
 # algorithms
-algo theory and lab repo
+algo theory repo.
